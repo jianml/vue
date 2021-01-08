@@ -1,2 +1,1 @@
-# vue
-vue demo
+# vuex
