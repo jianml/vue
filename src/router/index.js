@@ -18,6 +18,10 @@ const routes = [
     path: '/slot',
     component: ()=> import('@/views/slot/Index')
   },
+  {
+    path: '/demo',
+    component: ()=> import('@/views/demo/index')
+  },
 ]
 
 // 创建VueRouter对象
